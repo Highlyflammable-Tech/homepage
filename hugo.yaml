@@ -12,7 +12,7 @@ params:
   banner:
     dismissible: true
     text: Check this websites source code 
-    url: https://github.com/mirus-ua/hugo-theme-re-terminal
+    url: https://github.com/Highlyflammable-Tech/homepage
   logo:
     logoText: HighlyFlammable.tech
     logoHomeLink: /

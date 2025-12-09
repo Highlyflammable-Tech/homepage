@@ -2,6 +2,10 @@
 name = "highlyflammable-homepage"
 compatibility_date = "2025-07-31"
 
+[[routes]]
+pattern = "highlyflammable.tech"
+custom_domain = true
+
 [build]
 command = "chmod a+x build.sh && ./build.sh"
 

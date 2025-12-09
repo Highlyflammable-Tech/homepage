@@ -25,7 +25,7 @@ menus:
 
     - identifier: wakatime
       name:  WakaTime
-      url: mailto:hi@highlyflammable.tech
+      url: https://wakatime.com/@FlammableAssassin
       weight: 3
 
     - identifier: abuseipdb_profile

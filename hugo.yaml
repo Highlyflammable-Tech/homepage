@@ -2,17 +2,12 @@ baseurl: /
 languageCode: en-gb
 theme: terminal
 params:
-  themeColor: orange
   showLanguageSelector: false
   fullWidthTheme: false
   centerTheme: true
   autoCover: true
   showMenuItems: 2
   menuMore: "More"
-  banner:
-    dismissible: true
-    text: Check this websites source code 
-    url: https://github.com/Highlyflammable-Tech/homepage
   logo:
     logoText: HighlyFlammable.tech
     logoHomeLink: /

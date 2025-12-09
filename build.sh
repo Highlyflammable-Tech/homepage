@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# https://gohugo.io/host-and-deploy/host-on-cloudflare/
 #------------------------------------------------------------------------------
 # @file
 # Builds a Hugo site hosted on a Cloudflare Worker.

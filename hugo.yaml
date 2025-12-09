@@ -1,0 +1,44 @@
+baseurl: /
+languageCode: en-gb
+theme: terminal
+params:
+  themeColor: orange
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showMenuItems: 2
+  menuMore: "More"
+  banner:
+    dismissible: true
+    text: Check this websites source code 
+    url: https://github.com/mirus-ua/hugo-theme-re-terminal
+  logo:
+    logoText: HighlyFlammable.tech
+    logoHomeLink: /
+
+menus:
+  main:
+    - identifier: github
+      name:  Github
+      weight: 1
+
+    - identifier: email
+      name:  Email me
+      url: mailto:hi@highlyflammable.tech
+      weight: 2
+
+    - identifier: wakatime
+      name:  WakaTime
+      url: mailto:hi@highlyflammable.tech
+      weight: 3
+
+    - identifier: abuseipdb_profile
+      name: 󰆼 AbuseIPDB
+      url: https://www.abuseipdb.com/user/67633
+      weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

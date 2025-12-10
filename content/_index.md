@@ -2,7 +2,7 @@
 
 ## About
 
-Self-taught DevOps engineer, currently working as a platform engineer.
+Self-taught programmer, currently working as a platform engineer.
 
 ## Technology
 
